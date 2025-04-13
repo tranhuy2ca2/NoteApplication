@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="facebook">#425F9B</color>
+    <color name="ligt">#B6A5A5</color>
+    <color name="ligt1">#EBDB9D</color>
+    <color name="white_blue">#9494E2</color>
+    <color name="red">#FA0213</color>
+    <color name="yellow">#FAEE02</color>
+    <color name="pink">#FA02E5</color>
+    <color name="pink_red">#D33168</color>
+    <color name="green">#02FA0A</color>
+    <color name="blue">#283DD3</color>
+    <color name="blue_ligt">#495BE2</color>
+
+</resources>
